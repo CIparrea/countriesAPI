@@ -3,17 +3,7 @@
 <img src="https://borgenproject.org/wp-content/uploads/11918162946_11ea276da7_h.jpg"/>
 
 
-## Tech Stack
-
-- [Node.js](https://nodejs.org/en)
-- [Express](https://expressjs.com/)
-- [Mongoose](https://mongoosejs.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Postman](https://www.postman.com/)
-- [Heroku](https://www.heroku.com/)
-
-
-## Installation
+## Instalation
 
 To install the Countries API:
 
@@ -50,7 +40,7 @@ To install the Countries API:
   npm run db:seed
 ```
 
-## ROUTES
+## Routes
 
 Open **Postman** to test the API and its full CRUD functionality. Below you will find examples of the routes availble and how to access them.
 
@@ -101,3 +91,12 @@ Delete a planet.
   DELETE localhost:3000/api/:country_id 
 ```
 
+
+## Tech Stack
+
+- [Node.js](https://nodejs.org/en)
+- [Express](https://expressjs.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Postman](https://www.postman.com/)
+- [Heroku](https://www.heroku.com/)
