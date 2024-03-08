@@ -48,7 +48,7 @@ To install the Countries API:
 - To seed data
 ```
   npm run db:seed
-
+```
 
 ## ROUTES
 
